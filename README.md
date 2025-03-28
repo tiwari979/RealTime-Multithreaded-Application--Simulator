@@ -13,10 +13,10 @@ The **Real-Time Multi-threaded Application Simulator** is designed to demonstrat
 ## Screenshots
 
 ### Simulator UI
-![Simulator UI](screenshots/Select-Model.png)
+![Simulator UI](Screenshot/Select-Model.png)
 
 ### Gantt Chart
-![Gantt Chart](screenshots/Gantt-Chart.png)
+![Gantt Chart](Screenshot/Gantt-Chart.png)
 
 ## Installation & Setup
 
